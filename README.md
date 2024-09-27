@@ -125,9 +125,6 @@ While this project addresses basic cleanup tasks, there are several areas for fu
 
 We welcome contributions to enhance this project. Please fork the repository and submit a pull request with your proposed changes. For significant modifications, consider opening an issue first to discuss the changes.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
@@ -135,10 +132,6 @@ For questions, issues, or suggestions, please reach out:
 
 - **Email**: madhur.cloudevops@gmail.com
 
-
-## Acknowledgments
-
-Special thanks to all contributors and the open-source community for their guidance and support. This project would not be possible without the collective efforts of many.
 
 ---
 
